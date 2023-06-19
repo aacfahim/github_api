@@ -1,4 +1,4 @@
-# assignment
+# GitHub APU to fetch user repositories and others
 
 A new Flutter project.
 
